@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="75px" height="66px" viewBox="0 0 75 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>icon</title>
-    <g id="Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Home-Page-Color-Op2" transform="translate(-363.000000, -548.000000)" fill="#0095D3">
-            <g id="Callout-1-" transform="translate(250.000000, 512.000000)">
-                <g id="icon" transform="translate(113.000000, 36.000000)">
-                    <polygon id="Fill-1" points="15.2705882 58 50.2705882 58 50.2705882 56 15.2705882 56"></polygon>
-                    <polygon id="Fill-2" points="0.270588235 0 0.270588235 66 66.2705882 66 66.2705882 15.1675765 64.3294118 17.1087529 64.3294118 64.0580471 2.21176471 64.0580471 2.21176471 1.9404 64.3294118 1.9404 64.3294118 8.87195294 66.2705882 6.93155294 66.2705882 0"></polygon>
-                    <polygon id="Fill-3" points="31.6614646 44.2750105 14.6360523 27.3217434 13.2705882 28.6815447 31.6645557 47 74.2705882 4.35749265 72.9020332 3"></polygon>
-                </g>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="66" version="1.1" viewBox="0 0 75 66"><title>icon</title><g id="Designs" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Home-Page-Color-Op2" fill="#0095D3" transform="translate(-363.000000, -548.000000)"><g id="Callout-1-" transform="translate(250.000000, 512.000000)"><g id="icon" transform="translate(113.000000, 36.000000)"><polygon id="Fill-1" points="15.271 58 50.271 58 50.271 56 15.271 56"/><polygon id="Fill-2" points=".271 0 .271 66 66.271 66 66.271 15.168 64.329 17.109 64.329 64.058 2.212 64.058 2.212 1.94 64.329 1.94 64.329 8.872 66.271 6.932 66.271 0"/><polygon id="Fill-3" points="31.661 44.275 14.636 27.322 13.271 28.682 31.665 47 74.271 4.357 72.902 3"/></g></g></g></g></svg>
