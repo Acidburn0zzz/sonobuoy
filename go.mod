@@ -30,8 +30,8 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.4.0
 	github.com/viniciuschiele/tarx v0.0.0-20151205142357-6e3da540444d
-	golang.org/x/crypto v0.0.0-20200220183623-bac4c82f6975
-	golang.org/x/sync v0.0.0-20190423024810-112230192c58
+	golang.org/x/crypto v0.1.0
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	gopkg.in/yaml.v2 v2.2.8
 	gopkg.in/yaml.v3 v3.0.0-20200605160147-a5ece683394c
 	k8s.io/api v0.18.5
